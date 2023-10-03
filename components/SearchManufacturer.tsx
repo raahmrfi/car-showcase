@@ -25,7 +25,7 @@ const SearchManufacturer = (props: SearchManufacturer) => {
         <div className="relative w-full">
           <Combobox.Button className="absolute top-[13px]">
             <Image
-              src="/car-logo.svg"
+              src="/static/image/car-logo.svg"
               width={20}
               height={20}
               className="ml-4"
