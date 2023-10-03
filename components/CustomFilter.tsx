@@ -28,7 +28,7 @@ const CustomFilter = ({ title, options }: CustomFilterProps) => {
           <Listbox.Button className="custom-filter__btn">
             <span className="block truncate">{selected.title}</span>
             <Image
-              src="/chevron-up-down.svg"
+              src="/static/image/chevron-up-down.svg"
               alt="up down"
               width={20}
               height={20}

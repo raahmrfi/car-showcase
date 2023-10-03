@@ -45,7 +45,7 @@ const CarDetails = (props: CarDetailsProps) => {
                     className="absolute top-2 right-2 z-10 w-fit p-2 bg-primary-blue-100 rounded-full"
                   >
                     <Image
-                      src="/close.svg"
+                      src="/static/image/close.svg"
                       alt="close"
                       className="object-contain "
                       width={20}
